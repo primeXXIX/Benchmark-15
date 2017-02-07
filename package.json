@@ -1,0 +1,19 @@
+{
+  "name": "benchmark-15",
+  "version": "0.0.1",
+  "description": "## Description Benchmark goals are projects that are designed to be done solo.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/primeXXIX/Benchmark-15.git"
+  },
+  "author": "Prime29",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/primeXXIX/Benchmark-15/issues"
+  },
+  "homepage": "https://github.com/primeXXIX/Benchmark-15#readme"
+}
