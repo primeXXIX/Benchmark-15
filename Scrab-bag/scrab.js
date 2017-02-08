@@ -1,3 +1,5 @@
+//Scrab Bag
+
 //Output how many of each of the remaining tiles are left in the stack
 let fullStack = {
 
